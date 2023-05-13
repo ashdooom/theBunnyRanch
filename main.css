@@ -1,0 +1,55 @@
+.App-header {
+    padding: 25px 0;
+    text-align: center;
+    background: #ffbcd0;
+    position:relative;
+  }
+  
+  body {
+    background-color: #ffbcd0;
+  }
+
+  .header,
+  .introduction {
+    margin: 100px;
+    color: #ffbcd0;
+    font-size: 35px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    
+  }
+
+.brownbun {
+  
+  padding-left: 100px;
+  
+}
+
+.flowers {
+  float: right;
+  padding: 50px;
+}
+
+.backpack {
+  float: right;
+}
+
+
+.mocha {
+  float: right;
+}
+
+.leon {
+  float: right;
+  padding: 50px;
+  margin-bottom: 30px;
+}
+
+.princess {
+  float: right;
+  padding: 50px;
+}
+
+.bruiser {
+  float: right;
+}
